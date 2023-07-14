@@ -1,7 +1,7 @@
 - 👋 Hi, I’m xiaobaiclassmate
-- 👀 I’m interested in code and story
-- 🌱 I’m currently learning front end knowledge
-- 💞️  I’m looking to collaborate on write good code
+- 👀 I am a student
+- 🌱 I like front-end stuff
+- 💞️ I'm trying to improve my coding skills
 
 <!---
 objcxiaobai/objcxiaobai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
