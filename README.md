@@ -1,4 +1,4 @@
-- 👋 Hi, I’m xiaobaiclassmate
+- 👋 Hi, I’m XiaoBai
 - 👀 I am a student
 - 🌱 I like front-end stuff
 - 💞️ I'm trying to improve my coding skills
